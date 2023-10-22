@@ -210,4 +210,32 @@ align-items: self-start;
     align-items:center
   
 }
+.Cuadrados{
 
+ float: left;
+}
+
+.cuadro2{
+
+    height: 200px;
+    width: 200px;
+    background-color:white;
+    margin:5px;
+   border-width: 2px;
+    border-color:rgb(79, 122, 201);
+    border-style: solid;
+    float: left;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#naranja{
+
+    border-color: orange;
+}
+
+h4{
+
+margin-top: 25px;
+
+}
