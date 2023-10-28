@@ -138,6 +138,14 @@ padding: 15px;
     margin: 15px;
     color:white;
 }
+
+
+.p{
+    display: flex;
+    justify-content: center;
+}
+
+
 #p{
     display: flex;
     justify-content: center;
@@ -193,7 +201,7 @@ align-items: self-start;
 }
 .azul{
 
- background-color: rgb(18, 18, 134);
+ background-color: rgb(37, 37, 95);
     height: 100PX;
     width: 100%;
 
@@ -239,3 +247,55 @@ h4{
 margin-top: 25px;
 
 }
+
+
+#f{
+    float: left;
+width: 309px;
+margin: 12px;
+margin-left: 0px;
+
+}
+
+#venta{
+    display: flex;
+    justify-content: center;
+}
+.linea{
+    float: left;
+}
+.place2{
+margin-top: 0%;
+height: 40px;
+width: 309px;
+border-width: 1px;
+
+border-radius: 5px;
+background-color: white;
+}
+#correo{
+    border-width: 1px;
+
+width: 622px;
+
+}
+.Total{
+    width: 622px;
+    height: 50px;
+    background-color: rgb(202, 226, 226);
+    color: rgb(29, 29, 87);
+    border-radius: 5px;
+
+}
+.Total p {
+
+padding: 15px;
+
+}
+    #verde2{
+
+        background-color: rgb(114, 158, 48);
+        justify-content: center;
+        color: white;
+        border-width: 0px;
+    }
