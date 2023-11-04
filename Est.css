@@ -270,6 +270,7 @@ height: 40px;
 width: 309px;
 border-width: 1px;
 
+
 border-radius: 5px;
 background-color: white;
 }
@@ -285,11 +286,26 @@ width: 622px;
     background-color: rgb(202, 226, 226);
     color: rgb(29, 29, 87);
     border-radius: 5px;
-
+    justify-content: center;
 }
 .Total p {
 
 padding: 15px;
+
+float: left;
+
+}
+
+
+
+#respuesta {
+
+margin-left: 350px;
+
+}
+#Cantidad{
+
+    padding: 15px;
 
 }
     #verde2{
