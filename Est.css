@@ -2,7 +2,7 @@
 
     padding: 0%;
     margin: 0%;
-    max-width: 1345px;
+    max-width: 84,0625em;
    
 }
 
@@ -10,6 +10,7 @@ body{
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
+    font-size: 16px;
 
 }
 
@@ -17,7 +18,7 @@ body{
 .gris{
    
     background-color: rgb(83, 81, 81);
-    height: 80PX;
+    height: 5em;
     width: 100%;
 
     
@@ -25,30 +26,30 @@ body{
 }
 #logo{
 
-    height: 70px;
-    width: 70px;
-  padding: 14px;
+    height: 4.375em;
+    width: 4.375em;
+  padding: 0.875px;
 
 }
 #white{
-    margin-top: 20px;
+    margin-top: 1.25em;
     color:white;
-    font-size: 20px;
+    font-size: 1.25em;
 }
 
 
 .menu{
 
     list-style: none;
-    margin-top: 10px;
+    margin-top: 0.625em;
     
 }
 .menu li{
 
     position: relative; 
     display:inline-block;
-    padding: 17x;
-    margin: 9px;
+    padding: 1.0625em;
+    margin: 0.5625em;
     color:white;
 
 }
@@ -100,8 +101,8 @@ a:hover{
 
 
 h6{
-    margin-top: 30PX;
-    padding: 5PX;
+    margin-top: 1.875em;
+    padding: 0.93em;
     display: flex;
     justify-content: center;
 }
@@ -112,7 +113,7 @@ h1{
 }
 .Tarjetas {
 float:left;
-padding: 15px;
+padding: 0.93em;
 
 }
 .contenedor{
@@ -122,20 +123,20 @@ padding: 15px;
 
 
  .playa{
-    height: 400px;
-    width: 672px;
+    height: 25em;
+    width: 42em;
     float:left;
 }
  #cuadro{
 
-    height: 400px;
-    width: 660px;
+    height: 25em;
+    width: 41.25em;
     background-color: rgb(83, 81, 81);
 
 }
 #blanco{
 
-    margin: 15px;
+    margin: 0.93em;
     color:white;
 }
 
@@ -161,24 +162,24 @@ padding: 15px;
 
 .place{
     margin-top: 0%;
-    height: 40px;
-    width: 350px;
-    margin: 15px;
+    height: 2.5em;
+    width: 21.875em;
+    margin: 0.93em;
     border-radius: 5px;
     background-color: white;
    
 }
 .placeholder2{
     margin-top: 0%;
-    height: 160px;
-    width: 732px;
+    height: 10em;
+    width: 45.75em;
     border-radius: 5px;
-    margin: 15px;
+    margin: 0.93em;
     background-color: white;
    
 }
 #Recordatorio{
-    margin: 15px;
+    margin: 0.93em;
     margin-top: 0%;
    
 
@@ -186,35 +187,35 @@ padding: 15px;
 #boton{
     margin-top: 0%;
     background-color: rgb(75, 122, 5);
-    height: 40px;
-    width: 732px;
+    height: 2.5em;
+    width: 45.75em;
     border-radius: 5px;
-    margin: 15px;
+    margin: 0.93em;
    
 }
 input::placeholder{
     margin-top: 0;
-    margin: 15px;
-    padding: 15px;
+    margin: 0.93em;
+    padding: 0.93em;
 
 align-items: self-start;
 }
 .azul{
 
  background-color: rgb(37, 37, 95);
-    height: 100PX;
+    height: 6.25em;
     width: 100%;
 
 }
 #pie{
-    margin-bottom: 80px;
+    margin-bottom: 5em;
  
 }
 
 
 #a{
-    margin-top: 20px;
-    margin: 40px;
+    margin-top: 1.25em;
+    margin: 2.5em;
     align-items:center
   
 }
@@ -225,15 +226,15 @@ align-items: self-start;
 
 .cuadro2{
 
-    height: 200px;
-    width: 200px;
+    height: 12.5em;
+    width: 12.5em;
     background-color:white;
     margin:5px;
    border-width: 2px;
     border-color:rgb(79, 122, 201);
     border-style: solid;
     float: left;
-    margin-top: 30px;
+    margin-top: 1.875em;
     text-align: center;
 }
 
@@ -244,15 +245,15 @@ align-items: self-start;
 
 h4{
 
-margin-top: 25px;
+margin-top: 1.5625em;
 
 }
 
 
 #f{
     float: left;
-width: 309px;
-margin: 12px;
+width: 19.3125em;
+margin: 0.75em;
 margin-left: 0px;
 
 }
@@ -266,8 +267,8 @@ margin-left: 0px;
 }
 .place2{
 margin-top: 0%;
-height: 40px;
-width: 309px;
+height: 2.5em;
+width: 19.312em;
 border-width: 1px;
 
 
@@ -277,12 +278,12 @@ background-color: white;
 #correo{
     border-width: 1px;
 
-width: 622px;
+width: 38.875em;
 
 }
 .Total{
-    width: 622px;
-    height: 50px;
+    width:38.875em ;
+    height: 3.125em;
     background-color: rgb(202, 226, 226);
     color: rgb(29, 29, 87);
     border-radius: 5px;
@@ -290,7 +291,7 @@ width: 622px;
 }
 .Total p {
 
-padding: 15px;
+padding: 0.93em;
 
 float: left;
 
@@ -300,12 +301,12 @@ float: left;
 
 #respuesta {
 
-margin-left: 350px;
+margin-left: 21.875em;
 
 }
 #Cantidad{
 
-    padding: 15px;
+    padding: 0.93em;
 
 }
     #verde2{
@@ -314,4 +315,42 @@ margin-left: 350px;
         justify-content: center;
         color: white;
         border-width: 0px;
+    }
+    @media(max-width: 1200px) {
+        body{
+            font-size: 14px;
+    
+        }
+        
+        
+    }
+    @media(max-width: 992px) {
+        body{
+            font-size: 13px;
+    
+        }
+    }
+    @media(max-width: 768px) {
+        body{
+            font-size: 12px;
+    
+        }
+    }
+    @media(max-width: 576px) {
+        body{
+            font-size: 7px;
+    
+        }
+    
+    
+    
+    }
+    
+    @media(max-width: 366px) {
+        body{
+            font-size: 7px;
+    
+    
+        }
+      
     }
